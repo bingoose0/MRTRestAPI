@@ -1,0 +1,5 @@
+{
+    "name": "MRTRestAPI",
+    "version": "1.0.0",
+    "dyn_url": "https://dynmap.minecartrapidtransit.net"
+}
